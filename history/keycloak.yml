@@ -1,0 +1,7 @@
+url: https://auth.experta.com.ar/auth/realms/seguros/protocol/openid-connect/token
+status: down
+code: 415
+responseTime: 490
+lastUpdated: 2025-07-24T18:33:18.651Z
+startTime: 2025-07-24T18:33:17.805Z
+generator: Upptime <https://github.com/upptime/upptime>
