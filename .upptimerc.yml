@@ -12,7 +12,7 @@ sites:
     url: https://auth.experta.com.ar/auth/realms/seguros/protocol/openid-connect/token
     headers:
     - "Content-Type: application/json"
-    body:
+    body: {}
     - "client_id: usuarios-api"
     - "username: 26618832"
     - "password: Miercoles"
