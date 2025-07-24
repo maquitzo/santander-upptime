@@ -12,13 +12,13 @@ sites:
     url: https://auth.experta.com.ar/auth/realms/seguros/protocol/openid-connect/token
     headers:
     - "Content-Type: application/json"
-    body:
-    - "client_id: usuarios-api"
-    - "username: 26618832"
-    - "password: $KC_PWD"
-    - "grant_type: password"
-    - "client_secret: 75d583d0-f67b-4d6e-a6fe-66e8d71c3fb1"
-    - "client_id: usuarios-api"
+    # body:
+    # - "client_id: usuarios-api"
+    # - "username: 26618832"
+    # - "password: $KC_PWD"
+    # - "grant_type: password"
+    # - "client_secret: 75d583d0-f67b-4d6e-a6fe-66e8d71c3fb1"
+    # - "client_id: usuarios-api"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
