@@ -15,7 +15,7 @@ sites:
     body:
     - "client_id: usuarios-api"
     - "username: 26618832"
-    - "password: $KC_PWD"
+    - "password: Miercoles"
     - "grant_type: password"
     - "client_secret: 75d583d0-f67b-4d6e-a6fe-66e8d71c3fb1"
 
