@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
-    "timeDay": 83,
+    "timeDay": 79,
     "timeWeek": 86,
     "timeMonth": 86,
     "timeYear": 86,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1288,
-    "timeDay": 1315,
+    "timeDay": 1327,
     "timeWeek": 1288,
     "timeMonth": 1288,
     "timeYear": 1288,
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.experta.com.ar.ico",
     "slug": "keycloak",
     "status": "down",
-    "uptime": "10.15%",
-    "uptimeDay": "10.15%",
-    "uptimeWeek": "10.15%",
-    "uptimeMonth": "10.15%",
-    "uptimeYear": "10.15%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 490,
     "timeDay": 490,
     "timeWeek": 490,
     "timeMonth": 490,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2025-07-24": 0
+      "2025-07-25": 109,
+      "2025-07-24": 327
     }
   }
 ]
